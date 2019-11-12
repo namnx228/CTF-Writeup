@@ -1,0 +1,268 @@
+resolvers       > trees > analyzing '/usr/share/texlive/texmf-dist'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'License', lower: 'license', already: 'LICENSE'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Readme.txt', lower: 'readme.txt', already: 'README.txt'
+
+resolvers       > globbing > confusing filename, name: 'Copyright', lower: 'copyright', already: 'COPYRIGHT'
+
+resolvers       > globbing > confusing filename, name: 'Copyright', lower: 'copyright', already: 'COPYRIGHT'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'Changelog', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'CHANGELOG', lower: 'changelog', already: 'ChangeLog'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+resolvers       > globbing > confusing filename, name: 'NEWS', lower: 'news', already: 'News'
+
+open source     > level 1, order 1, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+system          > 
+system          > ConTeXt  ver: 2018.04.04 00:51 MKIV beta  fmt: 2019.11.12  int: english/english
+system          > 
+system          > 'cont-new.mkiv' loaded
+open source     > level 2, order 2, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+close source    > level 2, order 2, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv'
+
+system          > files > jobname 'input', input './input', result 'input'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 2, order 3, name '/home/nam/workspace/study/NTNU/ethical/writeup/tex2pdf.-4482776c2dfe93ab/input.tex'
+languages       > setting righthyphenchar to U+00AD
+selectfont      > The requested font 'Latin Modern Typewriter' has no files for the 'tf' alternative, Latin Modern is used instead.
+fonts           > defining > font 'lmroman10-regular', feature 'locl', script 'latn', no language 'dflt'
+structure       > sectioning > section @ level 3 : 0.0.1 -> Writeup for CTF challenge
+fonts           > defining > font 'lmroman10-regular', feature 'locl', script 'latn', no language 'dflt'
+structure       > sectioning > section @ level 3 : 0.0.2 -> Requirement
+
+Overfull \hbox (37.68172pt too wide) in paragraph at lines 68--70
+[]<1: lmroman10-regular @ 12.0pt> A pic­ture and a Python code are pro­vided. [] 
+
+\hbox(185.0112+2.45865)x426.78743, glue set - 1.0, direction TLT
+.\kern-0.45575 (left margin)
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(0.0+0.0)x0.0, direction TLT
+.<1: lmroman10-regular @ 12.0pt> A
+.\glue(\spaceskip) 3.9938 plus 1.9949 minus 1.3326
+.etc.
+
+
+Overfull \hbox (83.23225pt too wide) in paragraph at lines 65--83
+[]<8: lmmono10-regular @ 12.0pt>     pixelreverse = [pixelinfo[len(pixelinfo)-1-i] for i in range(len(pixelinfo))] 
+
+\hbox(10.42104+4.05261)x426.78743, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(10.42104+4.05261)x0.0, direction TLT
+.<8: lmmono10-regular @ 12.0pt>  
+.\penalty 0
+.<8: lmmono10-regular @ 12.0pt>  
+.etc.
+
+structure       > sectioning > section @ level 3 : 0.0.3 -> Solution
+fonts           > defining > font 'lmroman10-italic', feature 'locl', script 'latn', no language 'dflt'
+backend         > xmp > using file '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1, subpage 1
+
+Overfull \hbox (83.23225pt too wide) in paragraph at lines 68--86
+[]<8: lmmono10-regular @ 12.0pt>     pixelreverse = [pixelinfo[len(pixelinfo)-1-i] for i in range(len(pixelinfo))] 
+
+\hbox(10.42104+4.05261)x426.78743, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(10.42104+4.05261)x0.0, direction TLT
+.<8: lmmono10-regular @ 12.0pt>  
+.\penalty 0
+.<8: lmmono10-regular @ 12.0pt>  
+.etc.
+
+
+Overfull \hbox (26.5634pt too wide) in paragraph at lines 306--320
+[]<8: lmmono10-regular @ 12.0pt>             listReverse[tran[0]*hundred+tran[1]*ten+tran[2]]=sourcepixel 
+
+\hbox(10.42104+4.05261)x426.78743, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(10.42104+4.05261)x0.0, direction TLT
+.<8: lmmono10-regular @ 12.0pt>  
+.\penalty 0
+.<8: lmmono10-regular @ 12.0pt>  
+.etc.
+
+
+Overfull \hbox (114.71495pt too wide) in paragraph at lines 365--383
+[]<8: lmmono10-regular @ 12.0pt>         tran = listReverse[sourcepixel[0]*hundred + sourcepixel[1]*ten+sourcepixel[2]] 
+
+\hbox(10.42104+4.05261)x426.78743, direction TLT
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(10.42104+4.05261)x0.0, direction TLT
+.<8: lmmono10-regular @ 12.0pt>  
+.\penalty 0
+.<8: lmmono10-regular @ 12.0pt>  
+.etc.
+
+pages           > flushing realpage 2, userpage 2
+pages           > flushing realpage 3, userpage 3
+structure       > tags > ignoring end tag, previous chain: none
+close source    > level 2, order 3, name '/home/nam/workspace/study/NTNU/ethical/writeup/tex2pdf.-4482776c2dfe93ab/input.tex'
+close source    > level 1, order 3, name '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv'
+
+system          > start used files
+
+system          > text: input
+
+system          > stop used files
+
+
+system          > start used files
+
+system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/char-prv.lua fullname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/char-prv.lua usedmethod=database
+system          >    2: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv fullname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    4: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv fullname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+system          >    5: filename=lang-exc.lua filetype=scripts foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    6: filename=lang-us.lua filetype=scripts foundname=/usr/share/texlive/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/share/texlive/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    7: filename=/home/nam/workspace/study/NTNU/ethical/writeup/tex2pdf.-4482776c2dfe93ab/input.tex foundname=/home/nam/workspace/study/NTNU/ethical/writeup/tex2pdf.-4482776c2dfe93ab/input.tex fullname=/home/nam/workspace/study/NTNU/ethical/writeup/tex2pdf.-4482776c2dfe93ab/input.tex usedmethod=direct
+system          >    8: filename=lm.lfg filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/lm.lfg fullname=/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
+system          >    9: filename=lm-math.lfg filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/lm-math.lfg fullname=/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/lm-math.lfg usedmethod=database
+system          >   10: filename=lm-math.map filetype=map format=map foundname=/usr/share/texlive/texmf-dist/fonts/map/dvips/lm/lm-math.map fullname=/usr/share/texlive/texmf-dist/fonts/map/dvips/lm/lm-math.map usedmethod=database
+system          >   11: filename=lm-rm.map filetype=map format=map foundname=/usr/share/texlive/texmf-dist/fonts/map/dvips/lm/lm-rm.map fullname=/usr/share/texlive/texmf-dist/fonts/map/dvips/lm/lm-rm.map usedmethod=database
+system          >   12: filename=mkiv-base.map filetype=map format=map foundname=/usr/share/texlive/texmf-dist/fonts/map/pdftex/context/mkiv-base.map fullname=/usr/share/texlive/texmf-dist/fonts/map/pdftex/context/mkiv-base.map usedmethod=database
+system          >   13: filename=lmroman10-regular.otf filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf fullname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf usedmethod=database
+system          >   14: filename=cmunrm.otf filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf fullname=/usr/share/texlive/texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf usedmethod=database
+system          >   15: filename=latinmodern-math.otf filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
+system          >   16: filename=.././tex2pdf.-4482776c2dfe93ab/98c6912f1ceb420e0b0690ffd0fa1b9ab61d287e.png format=tex foundname=.././tex2pdf.-4482776c2dfe93ab/98c6912f1ceb420e0b0690ffd0fa1b9ab61d287e.png fullname=/home/nam/workspace/study/NTNU/ethical/writeup/tex2pdf.-4482776c2dfe93ab/98c6912f1ceb420e0b0690ffd0fa1b9ab61d287e.png usedmethod=direct
+system          >   17: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
+system          >   18: filename=lmroman10-italic.otf filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf fullname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm/lmroman10-italic.otf usedmethod=database
+system          >   19: filename=cmunti.otf filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/cm-unicode/cmunti.otf fullname=/usr/share/texlive/texmf-dist/fonts/opentype/public/cm-unicode/cmunti.otf usedmethod=database
+system          >   20: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          >   21: filename=.././tex2pdf.-4482776c2dfe93ab/4b566f87daa0d128473f87dcffc5f63190245923.png format=tex foundname=.././tex2pdf.-4482776c2dfe93ab/4b566f87daa0d128473f87dcffc5f63190245923.png fullname=/home/nam/workspace/study/NTNU/ethical/writeup/tex2pdf.-4482776c2dfe93ab/4b566f87daa0d128473f87dcffc5f63190245923.png usedmethod=direct
+
+system          > stop used files
+
+
+system          > start commandline options
+
+system          > batchmode="true"
+system          > currentrun="3"
+system          > fulljobname="./input.tex"
+system          > input="./input.tex"
+system          > kindofrun="2"
+system          > maxnofruns="9"
+system          > no-parse-first-line="true"
+
+system          > stop commandline options
+
+
+system          > start commandline files
+
+system          >    1: ./input.tex
+
+system          > stop commandline files
+
+
+modules         > start used modules
+
+
+modules         > stop used modules
+
+
+mkiv lua stats  > used config file: /usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: /home/nam/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793
+mkiv lua stats  > resource resolver: loadtime 0.603 seconds, 1 scans with scantime 0.599 seconds, 0 shared scans, 21 found files, scanned paths: /usr/share/texlive/texmf-dist
+mkiv lua stats  > stored bytecode data: 410 modules (0.876 sec), 93 tables (0.013 sec), 503 chunks (0.889 sec)
+mkiv lua stats  > traced context: maxstack: 1287, freed: 1, unreachable: 1286
+mkiv lua stats  > cleaned up reserved nodes: 59 nodes, 9 lists of 453
+mkiv lua stats  > node memory usage: 2 glue, 2 kern, 2 penalty, 17 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
+mkiv lua stats  > node list callback tasks: 7 unique task lists, 6 instances (re)created, 477 calls
+mkiv lua stats  > inserted spaces in output: 271
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: internal: 1280, file: 299, direct: 0, late: 0, function 0, total: 1579 (790 per page)
+mkiv lua stats  > randomizer: resumed with value 0.79940189784365
+mkiv lua stats  > loaded patterns: en::2, load time: 0.000
+mkiv lua stats  > structure elements: 90 element chains identified
+mkiv lua stats  > interactive elements: 0 references, 3 destinations
+mkiv lua stats  > result saved in file: input.pdf, compresslevel 3, objectcompresslevel 3
+mkiv lua stats  > loaded fonts: 6 files: cmunrm.otf, cmunti.otf, latinmodern-math.otf, lmmono10-regular.otf, lmroman10-italic.otf, lmroman10-regular.otf
+mkiv lua stats  > font engine: otf 3.103, afm 1.513, tfm 1.000, 10 instances, 2 shared in backend, 0 common vectors, 2 common hashes, load time 0.195 seconds 
+mkiv lua stats  > graphics processing time: 0.002 seconds including tex, 2 processed images, 2 unique asked, 2 bad names
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
+mkiv lua stats  > used engine: luatex version 1.07 with functionality level 6686, banner: this is luatex, version 1.07.0 (tex live 2018)
+mkiv lua stats  > control sequences: 46744 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.2, used memory: 160 MB (ctx: 160 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.283 seconds, 3 processed pages, 3 shipped pages, 2.338 pages/second
+
