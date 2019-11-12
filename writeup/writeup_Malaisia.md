@@ -5,7 +5,7 @@ Student ID:
 
 # Requirement
 A picture and a Python code are provided. 
-![Encode picture](./malaisia/out1_e2ccdbfd607c147695bf5d733c5837e7.bmp)
+![Encode picture](https://raw.githubusercontent.com/namnx228/CTF-Writeup/master/writeup/malaisia/out1_e2ccdbfd607c147695bf5d733c5837e7.bmp)
 
 ```python
 from PIL import Image
@@ -87,11 +87,7 @@ After finishing the array, I ran two nested `for` loops to go through all positi
 
 The output picture is the original one, containing the flag.
 
-In my code, I avoided to use 3-dimension array. Instead, I used a 1-dimension array having `256^3` items. I converted the index ``(a, b, c)` to `256^2 * a + 256 * b + c = d` and used `d` as the index in my array.
+In my code, I avoided to use 3-dimension array. Instead, I used a 1-dimension array having `256^3` items. I converted the index `(a, b, c)` to `256^2 * a + 256 * b + c = d` and used `d` as the index in my array.
 
 The flag is in this picture
-![result](./malaisia/out1.bmp)
-
-
-
-
+![result](https://raw.githubusercontent.com/namnx228/CTF-Writeup/master/writeup/malaisia/out1.bmp) 
